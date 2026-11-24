@@ -1,0 +1,119 @@
+{
+  "fecha_consulta": "2026-11-24T18:17:12.577123-05:00",
+  "fuente": "Open-Meteo",
+  "url_fuente": "https://open-meteo.com/",
+  "zona_horaria": "America/Guayaquil",
+  "horizonte_dias": 7,
+  "tipo": "Pronostico puntual, no promedio de cuenca",
+  "nota": "Incluye el dia actual completo; no equivale a lluvia restante desde la consulta. Probabilidad maxima diaria, no probabilidad de lluvia en todo el dia.",
+  "centrales": {
+    "Mazar": {
+      "coordenadas": {
+        "latitud": -2.596,
+        "longitud": -78.623001
+      },
+      "coordenadas_modelo": {
+        "latitud": -2.565905,
+        "longitud": -78.605774
+      },
+      "pronostico": [
+        {
+          "fecha": "2026-11-24",
+          "precipitacion_mm": 3.3,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-11-25",
+          "precipitacion_mm": 10.1,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-11-26",
+          "precipitacion_mm": 18.5,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-11-27",
+          "precipitacion_mm": 15.2,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-11-28",
+          "precipitacion_mm": 1.8,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-11-29",
+          "precipitacion_mm": 19.6,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-11-30",
+          "precipitacion_mm": 27.3,
+          "probabilidad_max_pct": 100
+        }
+      ],
+      "acumulado_7_dias_mm": 95.8,
+      "dias_con_datos": 7,
+      "dia_mayor_precipitacion": {
+        "fecha": "2026-11-30",
+        "precipitacion_mm": 27.3,
+        "probabilidad_max_pct": 100
+      }
+    },
+    "Coca Codo Sinclair": {
+      "coordenadas": {
+        "latitud": -0.197,
+        "longitud": -77.6843
+      },
+      "coordenadas_modelo": {
+        "latitud": -0.17574693,
+        "longitud": -77.71451
+      },
+      "pronostico": [
+        {
+          "fecha": "2026-11-24",
+          "precipitacion_mm": 11.1,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-11-25",
+          "precipitacion_mm": 9.8,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-11-26",
+          "precipitacion_mm": 13.4,
+          "probabilidad_max_pct": 97
+        },
+        {
+          "fecha": "2026-11-27",
+          "precipitacion_mm": 6.4,
+          "probabilidad_max_pct": 84
+        },
+        {
+          "fecha": "2026-11-28",
+          "precipitacion_mm": 10.5,
+          "probabilidad_max_pct": 82
+        },
+        {
+          "fecha": "2026-11-29",
+          "precipitacion_mm": 8.2,
+          "probabilidad_max_pct": 89
+        },
+        {
+          "fecha": "2026-11-30",
+          "precipitacion_mm": 11.8,
+          "probabilidad_max_pct": 80
+        }
+      ],
+      "acumulado_7_dias_mm": 71.2,
+      "dias_con_datos": 7,
+      "dia_mayor_precipitacion": {
+        "fecha": "2026-11-26",
+        "precipitacion_mm": 13.4,
+        "probabilidad_max_pct": 97
+      }
+    }
+  }
+}
