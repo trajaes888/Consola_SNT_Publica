@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-24T23:26:50.177715-05:00",
+  "fecha_consulta": "2026-11-25T02:43:44.895940-05:00",
   "fuente": "Open-Meteo",
   "url_fuente": "https://open-meteo.com/",
   "zona_horaria": "America/Guayaquil",
@@ -18,46 +18,46 @@
       },
       "pronostico": [
         {
-          "fecha": "2026-11-24",
-          "precipitacion_mm": 3.8,
-          "probabilidad_max_pct": 100
-        },
-        {
           "fecha": "2026-11-25",
-          "precipitacion_mm": 7.0,
+          "precipitacion_mm": 14.7,
           "probabilidad_max_pct": 100
         },
         {
           "fecha": "2026-11-26",
-          "precipitacion_mm": 10.7,
+          "precipitacion_mm": 15.9,
           "probabilidad_max_pct": 100
         },
         {
           "fecha": "2026-11-27",
-          "precipitacion_mm": 9.4,
+          "precipitacion_mm": 10.1,
           "probabilidad_max_pct": 100
         },
         {
           "fecha": "2026-11-28",
-          "precipitacion_mm": 2.3,
+          "precipitacion_mm": 1.4,
           "probabilidad_max_pct": 100
         },
         {
           "fecha": "2026-11-29",
-          "precipitacion_mm": 9.5,
+          "precipitacion_mm": 12.1,
           "probabilidad_max_pct": 100
         },
         {
           "fecha": "2026-11-30",
-          "precipitacion_mm": 17.4,
+          "precipitacion_mm": 9.7,
+          "probabilidad_max_pct": 100
+        },
+        {
+          "fecha": "2026-12-01",
+          "precipitacion_mm": 9.0,
           "probabilidad_max_pct": 100
         }
       ],
-      "acumulado_7_dias_mm": 60.1,
+      "acumulado_7_dias_mm": 72.9,
       "dias_con_datos": 7,
       "dia_mayor_precipitacion": {
-        "fecha": "2026-11-30",
-        "precipitacion_mm": 17.4,
+        "fecha": "2026-11-26",
+        "precipitacion_mm": 15.9,
         "probabilidad_max_pct": 100
       }
     },
@@ -72,46 +72,46 @@
       },
       "pronostico": [
         {
-          "fecha": "2026-11-24",
-          "precipitacion_mm": 12.0,
-          "probabilidad_max_pct": 100
-        },
-        {
           "fecha": "2026-11-25",
-          "precipitacion_mm": 13.3,
+          "precipitacion_mm": 16.5,
           "probabilidad_max_pct": 96
         },
         {
           "fecha": "2026-11-26",
-          "precipitacion_mm": 6.6,
+          "precipitacion_mm": 15.1,
           "probabilidad_max_pct": 94
         },
         {
           "fecha": "2026-11-27",
-          "precipitacion_mm": 8.4,
+          "precipitacion_mm": 4.8,
           "probabilidad_max_pct": 73
         },
         {
           "fecha": "2026-11-28",
-          "precipitacion_mm": 2.0,
+          "precipitacion_mm": 2.2,
           "probabilidad_max_pct": 71
         },
         {
           "fecha": "2026-11-29",
-          "precipitacion_mm": 14.2,
+          "precipitacion_mm": 14.9,
           "probabilidad_max_pct": 96
         },
         {
           "fecha": "2026-11-30",
-          "precipitacion_mm": 7.9,
+          "precipitacion_mm": 4.5,
           "probabilidad_max_pct": 84
+        },
+        {
+          "fecha": "2026-12-01",
+          "precipitacion_mm": 8.6,
+          "probabilidad_max_pct": 92
         }
       ],
-      "acumulado_7_dias_mm": 64.4,
+      "acumulado_7_dias_mm": 66.6,
       "dias_con_datos": 7,
       "dia_mayor_precipitacion": {
-        "fecha": "2026-11-29",
-        "precipitacion_mm": 14.2,
+        "fecha": "2026-11-25",
+        "precipitacion_mm": 16.5,
         "probabilidad_max_pct": 96
       }
     }
