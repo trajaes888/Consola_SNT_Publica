@@ -1,0 +1,10 @@
+{
+  "fecha_evaluacion": "2026-11-25T15:08:57.758508-05:00",
+  "umbral_referencia_m": 2115.0,
+  "pares_archivados": 9,
+  "pares_nuevos": 9,
+  "pares_sin_cota_real": 9,
+  "pares_evaluados": 0,
+  "metricas": [],
+  "nota": "Primera emision conjunta por cierre, escenario y tramo de anticipacion desde archivo. Cierre 00:00 corresponde al dia anterior CSV. Sesgo positivo = sobreestima. Umbral evaluado solo al cierre, no cruces intradia. Bandas empiricas no calibradas. Escenarios no se combinan; muestras correlacionadas. No confirma publicacion."
+}
