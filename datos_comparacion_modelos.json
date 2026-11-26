@@ -1,10 +1,81 @@
 {
-  "fecha_evaluacion": "2026-11-25T23:06:37.622835-05:00",
+  "fecha_evaluacion": "2026-11-26T00:20:16.726065-05:00",
   "umbral_referencia_m": 2115.0,
-  "pares_archivados": 9,
-  "pares_nuevos": 0,
-  "pares_sin_cota_real": 9,
-  "pares_evaluados": 0,
-  "metricas": [],
+  "pares_archivados": 16,
+  "pares_nuevos": 7,
+  "pares_sin_cota_real": 14,
+  "pares_evaluados": 2,
+  "metricas": [
+    {
+      "escenario": "local_supuesta",
+      "horizonte_dias": 1,
+      "horizonte_horas": [
+        0,
+        24
+      ],
+      "n": 1,
+      "v3": {
+        "mae_m": 0.03248475825012065,
+        "rmse_m": 0.03248475825012065,
+        "sesgo_m": 0.03248475825012065,
+        "cobertura_referencia_pct": 100.0,
+        "umbral_cierre": {
+          "vp": 0,
+          "fp": 0,
+          "vn": 1,
+          "fn": 0
+        }
+      },
+      "v4": {
+        "mae_m": 0.0627028011067523,
+        "rmse_m": 0.0627028011067523,
+        "sesgo_m": 0.0627028011067523,
+        "cobertura_referencia_pct": 100.0,
+        "umbral_cierre": {
+          "vp": 0,
+          "fp": 0,
+          "vn": 1,
+          "fn": 0
+        }
+      },
+      "mae_persistencia_m": 0.5140000000001237,
+      "mejora_v4_pct": -93.02221867856882
+    },
+    {
+      "escenario": "utc_supuesta",
+      "horizonte_dias": 1,
+      "horizonte_horas": [
+        0,
+        24
+      ],
+      "n": 1,
+      "v3": {
+        "mae_m": 0.05153533309339764,
+        "rmse_m": 0.05153533309339764,
+        "sesgo_m": 0.05153533309339764,
+        "cobertura_referencia_pct": 100.0,
+        "umbral_cierre": {
+          "vp": 0,
+          "fp": 0,
+          "vn": 1,
+          "fn": 0
+        }
+      },
+      "v4": {
+        "mae_m": 0.08157278620092256,
+        "rmse_m": 0.08157278620092256,
+        "sesgo_m": 0.08157278620092256,
+        "cobertura_referencia_pct": 100.0,
+        "umbral_cierre": {
+          "vp": 0,
+          "fp": 0,
+          "vn": 1,
+          "fn": 0
+        }
+      },
+      "mae_persistencia_m": 0.5140000000001237,
+      "mejora_v4_pct": -58.28516341029165
+    }
+  ],
   "nota": "Primera emision conjunta por cierre, escenario y tramo de anticipacion desde archivo. Cierre 00:00 corresponde al dia anterior CSV. Sesgo positivo = sobreestima. Umbral evaluado solo al cierre, no cruces intradia. Bandas empiricas no calibradas. Escenarios no se combinan; muestras correlacionadas. No confirma publicacion."
 }

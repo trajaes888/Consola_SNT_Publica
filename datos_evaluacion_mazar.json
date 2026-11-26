@@ -1,8 +1,37 @@
 {
-  "fecha_evaluacion": "2026-11-25T23:06:36.920327-05:00",
-  "registros_archivados": 99,
-  "nuevos": 9,
-  "sin_cota_real": 99,
-  "metricas": [],
+  "fecha_evaluacion": "2026-11-26T00:20:15.924263-05:00",
+  "registros_archivados": 106,
+  "nuevos": 7,
+  "sin_cota_real": 84,
+  "metricas": [
+    {
+      "version": "V3 experimental",
+      "escenario": "local_supuesta",
+      "horizonte_horas": [
+        0,
+        24
+      ],
+      "n": 1,
+      "mae_m": 0.06799056834461226,
+      "rmse_m": 0.06799056834461226,
+      "sesgo_m": 0.06799056834461226,
+      "mae_persistencia_m": 0.6940000000004147,
+      "cobertura_pct": 100.0
+    },
+    {
+      "version": "V3 experimental",
+      "escenario": "utc_supuesta",
+      "horizonte_horas": [
+        0,
+        24
+      ],
+      "n": 1,
+      "mae_m": 0.09648962242908965,
+      "rmse_m": 0.09648962242908965,
+      "sesgo_m": 0.09648962242908965,
+      "mae_persistencia_m": 0.6940000000004147,
+      "cobertura_pct": 100.0
+    }
+  ],
   "nota": "Predicciones generadas, no confirmacion de publicacion. Una primera emision por cierre, version, escenario y tramo de anticipacion desde emision. Cierre 00:00 corresponde al dia anterior del CSV. Sesgo positivo: sobreestima. Cobertura observada no garantiza cobertura futura. Muestras correlacionadas; no combinar escenarios."
 }
