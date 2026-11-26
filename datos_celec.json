@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-26T03:04:18.596048-05:00",
+  "fecha_consulta": "2026-11-26T04:14:31.890849-05:00",
   "generacion": {
     "Mazar": [
       {
@@ -8,6 +8,14 @@
       },
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
         "valueedit": 0
       }
     ],
@@ -19,6 +27,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 85.740887
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 0
       }
     ],
     "Sopladora": [
@@ -29,6 +45,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 54.564858
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 0
       }
     ],
     "Minas_San_Francisco": [
@@ -43,6 +67,10 @@
       {
         "loctimestamp": "2026-11-26T08:00:00Z",
         "valueedit": 65.25
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 41.5
       }
     ],
     "Coca_Codo_Sinclair": [
@@ -57,6 +85,10 @@
       {
         "loctimestamp": "2026-11-26T08:00:00Z",
         "valueedit": 65.25
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 41.5
       }
     ]
   },
@@ -69,6 +101,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 0
       }
     ],
     "44822": [
@@ -79,6 +119,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 3
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 0
       }
     ],
     "90503": [
@@ -89,6 +137,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 1
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 0
       }
     ],
     "650503": [
@@ -98,6 +154,14 @@
       },
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
+        "valueedit": 3
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 3
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
         "valueedit": 3
       }
     ],
@@ -109,6 +173,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 29.95983889
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 31.54625555
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 27.61462222
       }
     ],
     "30031": [
@@ -119,6 +191,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 2117.3
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 2117.32
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 2117.34
       }
     ],
     "24811": [
@@ -129,6 +209,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 34.043107
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 23.048156
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 19.653616
       }
     ],
     "24019": [
@@ -139,6 +227,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 1971.3596191
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 1971.4438477
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 1971.5201416
       }
     ],
     "90537": [
@@ -149,6 +245,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 14.9364869
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 0
       }
     ],
     "90919": [
@@ -159,6 +263,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 1314.2692871
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 1314.1357422
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 1314.1270752
       }
     ],
     "650538": [
@@ -168,7 +280,15 @@
       },
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
-        "valueedit": 27.2238333
+        "valueedit": 28.8322667
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 28.894963
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 26.9615815
       }
     ],
     "650919": [
@@ -183,6 +303,10 @@
       {
         "loctimestamp": "2026-11-26T08:00:00Z",
         "valueedit": 784.05
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 784.16
       }
     ],
     "24812": [
@@ -193,6 +317,14 @@
       {
         "loctimestamp": "2026-11-26T07:00:00Z",
         "valueedit": 56.1113
+      },
+      {
+        "loctimestamp": "2026-11-26T08:00:00Z",
+        "valueedit": 53.008
+      },
+      {
+        "loctimestamp": "2026-11-26T09:00:00Z",
+        "valueedit": 51.1999
       }
     ]
   },
