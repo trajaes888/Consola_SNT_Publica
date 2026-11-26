@@ -1,8 +1,8 @@
 {
-  "fecha_evaluacion": "2026-11-25T18:54:26.763997-05:00",
-  "registros_archivados": 72,
+  "fecha_evaluacion": "2026-11-25T20:18:43.155252-05:00",
+  "registros_archivados": 81,
   "nuevos": 9,
-  "sin_cota_real": 72,
+  "sin_cota_real": 81,
   "metricas": [],
   "nota": "Predicciones generadas, no confirmacion de publicacion. Una primera emision por cierre, version, escenario y tramo de anticipacion desde emision. Cierre 00:00 corresponde al dia anterior del CSV. Sesgo positivo: sobreestima. Cobertura observada no garantiza cobertura futura. Muestras correlacionadas; no combinar escenarios."
 }
