@@ -1,11 +1,11 @@
 {
-  "fecha_consulta": "2026-11-26T23:06:44.671431-05:00",
+  "fecha_consulta": "2026-11-27T00:06:42.618738-05:00",
   "fecha_modelo": "2026-11-26",
   "fuente": "https://services.geoglows.org/api/hydropowers/get-forecast-plot",
   "intervalo_horas": 3,
   "horizonte_dias": 5,
   "zona_horaria_series": "No especificada por la API; fechas originales",
-  "usa_modelo_anterior": false,
+  "usa_modelo_anterior": true,
   "centrales": {
     "Mazar": {
       "fecha_modelo": "2026-11-26",
