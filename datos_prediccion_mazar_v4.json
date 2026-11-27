@@ -16,15 +16,15 @@
     {
       "dias": 2,
       "n": 48,
-      "mae": 0.8047698204611101,
+      "mae": 0.80476982046111,
       "persistencia": 1.105317993749992,
       "mae_insumos_reales": 0.09187860941535864,
-      "p90_error": 1.621230430856237
+      "p90_error": 1.6212304308562377
     },
     {
       "dias": 3,
       "n": 47,
-      "mae": 1.1374707999098608,
+      "mae": 1.1374707999098603,
       "persistencia": 1.5519477234042534,
       "mae_insumos_reales": 0.1255530300727929,
       "p90_error": 2.4190273346808415
@@ -35,7 +35,7 @@
       "mae": 1.440210963983114,
       "persistencia": 1.9104683260869557,
       "mae_insumos_reales": 0.15248927363694548,
-      "p90_error": 2.8697395175940015
+      "p90_error": 2.8697395175940024
     },
     {
       "dias": 5,
@@ -43,18 +43,18 @@
       "mae": 1.7109499727287039,
       "persistencia": 2.236145400000017,
       "mae_insumos_reales": 0.17434938526758728,
-      "p90_error": 3.532337952296878
+      "p90_error": 3.5323379522968796
     }
   ],
   "origen": "2026-11-27 04:00:00",
-  "cota_origen": 2117.032959,
+  "cota_origen": 2116.987,
   "energia_observada": 0,
   "energia_diaria_predicha": [
-    945.1507415072044,
-    937.8453433390724,
-    985.7798656783888,
-    1040.5688259598357,
-    968.0627568551998
+    945.150741507205,
+    937.8453433390738,
+    985.7798656783875,
+    1040.5688259598348,
+    968.0627568552014
   ],
   "limitaciones": [
     "Solo cota baja (<2130 m); ajuste diario no certificado como curva cota-volumen.",
@@ -68,7 +68,7 @@
     "GEOGloWS: modelo anterior; horizonte restante sin extrapolacion."
   ],
   "version": "V4 experimental",
-  "fecha_consulta": "2026-11-27T04:09:13.725063-05:00",
+  "fecha_consulta": "2026-11-27T04:36:45.849042-05:00",
   "fecha_modelo_geoglows": "2026-11-26",
   "umbral_referencia_m": 2115,
   "incertidumbre_tipo": "Referencia empirica p90 retrospectiva diaria con caudal persistente; no calibrada para GEOGloWS ni intradia.",
@@ -77,88 +77,88 @@
     "local_supuesta": [
       {
         "fecha": "2026-11-28 00:00:00",
-        "cota": 2116.901436343325,
+        "cota": 2116.8554773433248,
         "caudal_medio": 33.98342613829787,
-        "energia_mwh": 945.1507415072044,
+        "energia_mwh": 945.150741507205,
         "horas": 20.0,
         "horas_desde_origen": 20.0,
         "error_p90_referencia_m": 0.9056350515545579,
-        "cota_inferior_referencia": 2115.99580129177,
-        "cota_superior_referencia": 2117.8070713948796,
+        "cota_inferior_referencia": 2115.94984229177,
+        "cota_superior_referencia": 2117.7611123948795,
         "alerta_en_banda_referencia": false
       },
       {
         "fecha": "2026-11-29 00:00:00",
-        "cota": 2117.0598950288822,
+        "cota": 2117.013936028882,
         "caudal_medio": 44.99502029133797,
-        "energia_mwh": 937.8453433390724,
+        "energia_mwh": 937.8453433390738,
         "horas": 24.0,
         "horas_desde_origen": 44.0,
-        "error_p90_referencia_m": 1.621230430856237,
-        "cota_inferior_referencia": 2115.438664598026,
-        "cota_superior_referencia": 2118.6811254597383,
+        "error_p90_referencia_m": 1.6212304308562377,
+        "cota_inferior_referencia": 2115.392705598026,
+        "cota_superior_referencia": 2118.6351664597382,
         "alerta_en_banda_referencia": false
       },
       {
         "fecha": "2026-11-30 00:00:00",
-        "cota": 2117.153928517014,
+        "cota": 2117.1079695170138,
         "caudal_medio": 43.054630001482906,
-        "energia_mwh": 985.7798656783888,
+        "energia_mwh": 985.7798656783875,
         "horas": 24.0,
         "horas_desde_origen": 68.0,
         "error_p90_referencia_m": 2.4190273346808415,
-        "cota_inferior_referencia": 2114.734901182333,
-        "cota_superior_referencia": 2119.5729558516946,
+        "cota_inferior_referencia": 2114.688942182333,
+        "cota_superior_referencia": 2119.5269968516945,
         "alerta_en_banda_referencia": true
       },
       {
         "fecha": "2026-12-01 00:00:00",
-        "cota": 2117.1922856971414,
+        "cota": 2117.1463266971414,
         "caudal_medio": 41.88689075103,
-        "energia_mwh": 1040.5688259598357,
+        "energia_mwh": 1040.5688259598348,
         "horas": 24.0,
         "horas_desde_origen": 92.0,
-        "error_p90_referencia_m": 2.8697395175940015,
-        "cota_inferior_referencia": 2114.3225461795473,
-        "cota_superior_referencia": 2120.0620252147355,
+        "error_p90_referencia_m": 2.8697395175940024,
+        "cota_inferior_referencia": 2114.2765871795473,
+        "cota_superior_referencia": 2120.0160662147355,
         "alerta_en_banda_referencia": true
       }
     ],
     "utc_supuesta": [
       {
         "fecha": "2026-11-28 00:00:00",
-        "cota": 2116.9366856246347,
+        "cota": 2116.8907266246347,
         "caudal_medio": 36.45645478239885,
-        "energia_mwh": 945.1507415072044,
+        "energia_mwh": 945.150741507205,
         "horas": 20.0,
         "horas_desde_origen": 20.0,
         "error_p90_referencia_m": 0.9056350515545579,
-        "cota_inferior_referencia": 2116.03105057308,
-        "cota_superior_referencia": 2117.8423206761895,
+        "cota_inferior_referencia": 2115.98509157308,
+        "cota_superior_referencia": 2117.7963616761895,
         "alerta_en_banda_referencia": false
       },
       {
         "fecha": "2026-11-29 00:00:00",
-        "cota": 2117.107440841589,
+        "cota": 2117.061481841589,
         "caudal_medio": 45.71393978031744,
-        "energia_mwh": 937.8453433390724,
+        "energia_mwh": 937.8453433390738,
         "horas": 24.0,
         "horas_desde_origen": 44.0,
-        "error_p90_referencia_m": 1.621230430856237,
-        "cota_inferior_referencia": 2115.486210410733,
-        "cota_superior_referencia": 2118.728671272445,
+        "error_p90_referencia_m": 1.6212304308562377,
+        "cota_inferior_referencia": 2115.440251410733,
+        "cota_superior_referencia": 2118.682712272445,
         "alerta_en_banda_referencia": false
       },
       {
         "fecha": "2026-11-30 00:00:00",
-        "cota": 2117.1954778805207,
+        "cota": 2117.1495188805206,
         "caudal_medio": 42.70404624292815,
-        "energia_mwh": 985.7798656783888,
+        "energia_mwh": 985.7798656783875,
         "horas": 24.0,
         "horas_desde_origen": 68.0,
         "error_p90_referencia_m": 2.4190273346808415,
-        "cota_inferior_referencia": 2114.77645054584,
-        "cota_superior_referencia": 2119.6145052152015,
+        "cota_inferior_referencia": 2114.73049154584,
+        "cota_superior_referencia": 2119.5685462152014,
         "alerta_en_banda_referencia": true
       }
     ]
