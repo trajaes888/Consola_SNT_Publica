@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-27T04:36:19.775012-05:00",
+  "fecha_consulta": "2026-11-27T05:06:24.248291-05:00",
   "generacion": {
     "Mazar": [
       {
@@ -16,6 +16,10 @@
       },
       {
         "loctimestamp": "2026-11-27T09:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-27T10:00:00Z",
         "valueedit": 0
       }
     ],
@@ -35,6 +39,10 @@
       {
         "loctimestamp": "2026-11-27T09:00:00Z",
         "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-27T10:00:00Z",
+        "valueedit": 0
       }
     ],
     "Sopladora": [
@@ -52,6 +60,10 @@
       },
       {
         "loctimestamp": "2026-11-27T09:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-27T10:00:00Z",
         "valueedit": 0
       }
     ],
@@ -71,6 +83,10 @@
       {
         "loctimestamp": "2026-11-27T09:00:00Z",
         "valueedit": 203.25
+      },
+      {
+        "loctimestamp": "2026-11-27T10:00:00Z",
+        "valueedit": 202.75
       }
     ],
     "Coca_Codo_Sinclair": [
@@ -89,6 +105,10 @@
       {
         "loctimestamp": "2026-11-27T09:00:00Z",
         "valueedit": 203.25
+      },
+      {
+        "loctimestamp": "2026-11-27T10:00:00Z",
+        "valueedit": 202.75
       }
     ]
   },
@@ -108,6 +128,10 @@
       },
       {
         "loctimestamp": "2026-11-27T09:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-27T10:00:00Z",
         "valueedit": 0
       }
     ],
@@ -289,6 +313,10 @@
       {
         "loctimestamp": "2026-11-27T09:00:00Z",
         "valueedit": 59.8533518
+      },
+      {
+        "loctimestamp": "2026-11-27T10:00:00Z",
+        "valueedit": 66.089537
       }
     ],
     "650919": [
@@ -307,6 +335,10 @@
       {
         "loctimestamp": "2026-11-27T09:00:00Z",
         "valueedit": 784.31
+      },
+      {
+        "loctimestamp": "2026-11-27T10:00:00Z",
+        "valueedit": 784.68
       }
     ],
     "24812": [
