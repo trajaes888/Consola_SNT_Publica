@@ -1,34 +1,34 @@
 {
-  "fecha_consulta": "2026-11-26T23:06:44.609875-05:00",
+  "fecha_consulta": "2026-11-26T23:36:39.677038-05:00",
   "fecha_reporte": "Jueves, 26 de noviembre de 2026",
   "fuente": "https://www.cenace.gob.ec/info-operativa/InformacionOperativa.htm",
   "energia_mwh": {
     "IMPORTACIÓN": 0.0,
-    "HIDROELÉCTRICA": 66722.8212890625,
-    "TÉRMICA": 26536.318725585938,
-    "RENOVABLE": 498.62717455025995,
+    "HIDROELÉCTRICA": 68069.44799804688,
+    "TÉRMICA": 27117.647583007812,
+    "RENOVABLE": 505.3141748472699,
     "EXPORTACIÓN": 0.0
   },
-  "produccion_total_mwh": 94003,
+  "produccion_total_mwh": 95944,
   "hidroelectricas_mwh": {
-    "Coca Codo": 17695,
-    "Paute": 8138,
-    "Sopladora": 4844,
-    "San Francisco": 3303,
-    "Delsitanisagua": 2628,
-    "Agoyán": 2345,
-    "Minas San Francisco": 2163,
+    "Coca Codo": 18072,
+    "Paute": 8269,
+    "Sopladora": 4926,
+    "San Francisco": 3367,
+    "Delsitanisagua": 2713,
+    "Agoyán": 2390,
+    "Minas San Francisco": 2214,
     "Mazar": 995
   },
   "participacion_desglose_pct": {
-    "Coca Codo": 42.02,
-    "Paute": 19.33,
-    "Sopladora": 11.5,
+    "Coca Codo": 42.08,
+    "Paute": 19.25,
+    "Sopladora": 11.47,
     "San Francisco": 7.84,
-    "Delsitanisagua": 6.24,
+    "Delsitanisagua": 6.32,
     "Agoyán": 5.57,
-    "Minas San Francisco": 5.14,
-    "Mazar": 2.36
+    "Minas San Francisco": 5.16,
+    "Mazar": 2.32
   },
   "curvas_mw": {
     "Hidráulica": {
@@ -130,7 +130,7 @@
         3107.873046875,
         2957.72802734375,
         2830.5,
-        null
+        2693.25341796875
       ]
     },
     "Renovable": {
@@ -232,7 +232,7 @@
         10.894512876868248,
         12.630568478256464,
         12.64038997516036,
-        null
+        13.37400059401989
       ]
     },
     "Importación": {
@@ -334,7 +334,7 @@
         0.0,
         0.0,
         0.0,
-        null
+        0.0
       ]
     },
     "Térmica": {
@@ -436,7 +436,7 @@
         1172.9453125,
         1163.4150390625,
         1167.58447265625,
-        null
+        1162.65771484375
       ]
     },
     "Exportación": {
@@ -538,7 +538,7 @@
         0.0,
         0.0,
         0.0,
-        null
+        0.0
       ]
     },
     "PRODUCCIÓN TOTAL": {
@@ -640,7 +640,7 @@
         4291.712872251868,
         4133.7736348845065,
         4010.7248626314104,
-        null
+        3869.28513340652
       ]
     },
     "DEMANDA NACIONAL": {
@@ -742,12 +742,12 @@
         4291.712872251868,
         4133.7736348845065,
         4010.7248626314104,
-        null
+        3869.28513340652
       ]
     }
   },
-  "demanda_actual_mw": 4010.7248626314104,
-  "hora_ultima_demanda": "23:00",
+  "demanda_actual_mw": 3869.28513340652,
+  "hora_ultima_demanda": "23:30",
   "demanda_maxima_mw": 4628.130661348347,
   "hora_demanda_maxima": "19:00"
 }
