@@ -1,8 +1,8 @@
 {
-  "fecha_evaluacion": "2026-11-27T09:06:42.120242-05:00",
-  "registros_archivados": 356,
-  "nuevos": 0,
-  "sin_cota_real": 274,
+  "fecha_evaluacion": "2026-11-27T09:36:57.240493-05:00",
+  "registros_archivados": 365,
+  "nuevos": 9,
+  "sin_cota_real": 283,
   "metricas": [
     {
       "version": "V3 experimental",
