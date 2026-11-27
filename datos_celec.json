@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-26T19:06:24.140425-05:00",
+  "fecha_consulta": "2026-11-26T19:36:17.936772-05:00",
   "generacion": {
     "Mazar": [
       {
@@ -543,6 +543,10 @@
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
         "valueedit": 8
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 8
       }
     ],
     "90503": [
@@ -616,6 +620,10 @@
       },
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
+        "valueedit": 3
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
         "valueedit": 3
       }
     ],
@@ -769,6 +777,10 @@
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
         "valueedit": 12.96211389
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 12.61709259
       }
     ],
     "30031": [
@@ -843,6 +855,10 @@
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
         "valueedit": 2116.93
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 2116.843
       }
     ],
     "24811": [
@@ -917,6 +933,10 @@
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
         "valueedit": 148.290612
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 140.950634
       }
     ],
     "24019": [
@@ -991,6 +1011,10 @@
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
         "valueedit": 1971.643
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 1971.803
       }
     ],
     "90537": [
@@ -1065,6 +1089,10 @@
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
         "valueedit": 105.4186073
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 105.3445523
       }
     ],
     "90919": [
@@ -1139,6 +1167,10 @@
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
         "valueedit": 1315.5823975
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 1315.2416992
       }
     ],
     "650538": [
@@ -1369,6 +1401,10 @@
       {
         "loctimestamp": "2026-11-26T23:00:00Z",
         "valueedit": 49.933
+      },
+      {
+        "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 37.2307
       }
     ]
   },
