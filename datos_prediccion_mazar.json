@@ -67,7 +67,7 @@
     "No se asigna probabilidad de cruce de alerta sin calibración independiente."
   ],
   "version": "V3 experimental",
-  "fecha_consulta": "2026-11-26T21:36:43.941609-05:00",
+  "fecha_consulta": "2026-11-26T22:06:40.942740-05:00",
   "fecha_modelo_geoglows": "2026-11-26",
   "umbral_referencia_m": 2115,
   "incertidumbre_tipo": "Referencia empírica p90 del error absoluto en prueba diaria con caudal persistente. No es intervalo calibrado GEOGloWS ni intradía.",
