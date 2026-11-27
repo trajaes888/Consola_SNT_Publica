@@ -1,8 +1,8 @@
 {
-  "fecha_evaluacion": "2026-11-26T23:39:04.816079-05:00",
-  "registros_archivados": 266,
-  "nuevos": 9,
-  "sin_cota_real": 244,
+  "fecha_evaluacion": "2026-11-27T00:36:58.783585-05:00",
+  "registros_archivados": 273,
+  "nuevos": 7,
+  "sin_cota_real": 191,
   "metricas": [
     {
       "version": "V3 experimental",
@@ -11,11 +11,25 @@
         0,
         24
       ],
+      "n": 2,
+      "mae_m": 0.10855561954826953,
+      "rmse_m": 0.11588721204112201,
+      "sesgo_m": 0.10855561954826953,
+      "mae_persistencia_m": 0.5170000000000528,
+      "cobertura_pct": 100.0
+    },
+    {
+      "version": "V3 experimental",
+      "escenario": "local_supuesta",
+      "horizonte_horas": [
+        24,
+        48
+      ],
       "n": 1,
-      "mae_m": 0.06799056834461226,
-      "rmse_m": 0.06799056834461226,
-      "sesgo_m": 0.06799056834461226,
-      "mae_persistencia_m": 0.6940000000004147,
+      "mae_m": 0.14632281003378012,
+      "rmse_m": 0.14632281003378012,
+      "sesgo_m": 0.14632281003378012,
+      "mae_persistencia_m": 1.0340000000001055,
       "cobertura_pct": 100.0
     },
     {
@@ -25,11 +39,25 @@
         0,
         24
       ],
+      "n": 2,
+      "mae_m": 0.1193044986591758,
+      "rmse_m": 0.12146638208867272,
+      "sesgo_m": 0.1193044986591758,
+      "mae_persistencia_m": 0.5170000000000528,
+      "cobertura_pct": 100.0
+    },
+    {
+      "version": "V3 experimental",
+      "escenario": "utc_supuesta",
+      "horizonte_horas": [
+        24,
+        48
+      ],
       "n": 1,
-      "mae_m": 0.09648962242908965,
-      "rmse_m": 0.09648962242908965,
-      "sesgo_m": 0.09648962242908965,
-      "mae_persistencia_m": 0.6940000000004147,
+      "mae_m": 0.1678205682560474,
+      "rmse_m": 0.1678205682560474,
+      "sesgo_m": 0.1678205682560474,
+      "mae_persistencia_m": 1.0340000000001055,
       "cobertura_pct": 100.0
     }
   ],
