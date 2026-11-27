@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-26T19:36:17.936772-05:00",
+  "fecha_consulta": "2026-11-26T20:06:20.724673-05:00",
   "generacion": {
     "Mazar": [
       {
@@ -77,6 +77,10 @@
       {
         "loctimestamp": "2026-11-27T00:00:00Z",
         "valueedit": 116.229215
+      },
+      {
+        "loctimestamp": "2026-11-27T01:00:00Z",
+        "valueedit": 77.043604
       }
     ],
     "Molino": [
@@ -155,6 +159,10 @@
       {
         "loctimestamp": "2026-11-27T00:00:00Z",
         "valueedit": 597.744861
+      },
+      {
+        "loctimestamp": "2026-11-27T01:00:00Z",
+        "valueedit": 616.335522
       }
     ],
     "Sopladora": [
@@ -233,6 +241,10 @@
       {
         "loctimestamp": "2026-11-27T00:00:00Z",
         "valueedit": 354.607036
+      },
+      {
+        "loctimestamp": "2026-11-27T01:00:00Z",
+        "valueedit": 363.772652
       }
     ],
     "Minas_San_Francisco": [
@@ -311,6 +323,10 @@
       {
         "loctimestamp": "2026-11-27T00:00:00Z",
         "valueedit": 141
+      },
+      {
+        "loctimestamp": "2026-11-27T01:00:00Z",
+        "valueedit": 153
       }
     ],
     "Coca_Codo_Sinclair": [
@@ -389,6 +405,10 @@
       {
         "loctimestamp": "2026-11-27T00:00:00Z",
         "valueedit": 1209.581112
+      },
+      {
+        "loctimestamp": "2026-11-27T01:00:00Z",
+        "valueedit": 1210.151778
       }
     ]
   },
@@ -468,6 +488,10 @@
       },
       {
         "loctimestamp": "2026-11-27T00:00:00Z",
+        "valueedit": 2
+      },
+      {
+        "loctimestamp": "2026-11-27T01:00:00Z",
         "valueedit": 2
       }
     ],
@@ -1249,6 +1273,10 @@
       {
         "loctimestamp": "2026-11-27T00:00:00Z",
         "valueedit": 23.0059185
+      },
+      {
+        "loctimestamp": "2026-11-27T01:00:00Z",
+        "valueedit": 22.5914148
       }
     ],
     "650919": [
@@ -1327,6 +1355,10 @@
       {
         "loctimestamp": "2026-11-27T00:00:00Z",
         "valueedit": 784.2
+      },
+      {
+        "loctimestamp": "2026-11-27T01:00:00Z",
+        "valueedit": 784.01
       }
     ],
     "24812": [
