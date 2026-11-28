@@ -1,8 +1,8 @@
 {
-  "fecha_evaluacion": "2026-11-27T23:36:47.676748-05:00",
-  "registros_archivados": 500,
-  "nuevos": 9,
-  "sin_cota_real": 418,
+  "fecha_evaluacion": "2026-11-28T00:37:11.929109-05:00",
+  "registros_archivados": 507,
+  "nuevos": 7,
+  "sin_cota_real": 309,
   "metricas": [
     {
       "version": "V3 experimental",
@@ -11,11 +11,11 @@
         0,
         24
       ],
-      "n": 2,
-      "mae_m": 0.10855561954826953,
-      "rmse_m": 0.11588721204112201,
-      "sesgo_m": 0.10855561954826953,
-      "mae_persistencia_m": 0.5170000000000528,
+      "n": 3,
+      "mae_m": 0.10031363597575667,
+      "rmse_m": 0.10628123886744699,
+      "sesgo_m": 0.04442719008860271,
+      "mae_persistencia_m": 0.358000000000023,
       "cobertura_pct": 100.0
     },
     {
@@ -25,11 +25,25 @@
         24,
         48
       ],
+      "n": 2,
+      "mae_m": 0.18534072769284649,
+      "rmse_m": 0.18940322922316705,
+      "sesgo_m": 0.18534072769284649,
+      "mae_persistencia_m": 0.6669999999999163,
+      "cobertura_pct": 100.0
+    },
+    {
+      "version": "V3 experimental",
+      "escenario": "local_supuesta",
+      "horizonte_horas": [
+        48,
+        72
+      ],
       "n": 1,
-      "mae_m": 0.14632281003378012,
-      "rmse_m": 0.14632281003378012,
-      "sesgo_m": 0.14632281003378012,
-      "mae_persistencia_m": 1.0340000000001055,
+      "mae_m": 0.17576306046885293,
+      "rmse_m": 0.17576306046885293,
+      "sesgo_m": 0.17576306046885293,
+      "mae_persistencia_m": 0.9940000000001419,
       "cobertura_pct": 100.0
     },
     {
@@ -39,11 +53,11 @@
         0,
         24
       ],
-      "n": 2,
-      "mae_m": 0.1193044986591758,
-      "rmse_m": 0.12146638208867272,
-      "sesgo_m": 0.1193044986591758,
-      "mae_persistencia_m": 0.5170000000000528,
+      "n": 3,
+      "mae_m": 0.09422350730180067,
+      "rmse_m": 0.10238746978082508,
+      "sesgo_m": 0.06484915757710041,
+      "mae_persistencia_m": 0.358000000000023,
       "cobertura_pct": 100.0
     },
     {
@@ -53,11 +67,25 @@
         24,
         48
       ],
+      "n": 2,
+      "mae_m": 0.2484578816595331,
+      "rmse_m": 0.2612158021094331,
+      "sesgo_m": 0.2484578816595331,
+      "mae_persistencia_m": 0.6669999999999163,
+      "cobertura_pct": 100.0
+    },
+    {
+      "version": "V3 experimental",
+      "escenario": "utc_supuesta",
+      "horizonte_horas": [
+        48,
+        72
+      ],
       "n": 1,
-      "mae_m": 0.1678205682560474,
-      "rmse_m": 0.1678205682560474,
-      "sesgo_m": 0.1678205682560474,
-      "mae_persistencia_m": 1.0340000000001055,
+      "mae_m": 0.30899866426443623,
+      "rmse_m": 0.30899866426443623,
+      "sesgo_m": 0.30899866426443623,
+      "mae_persistencia_m": 0.9940000000001419,
       "cobertura_pct": 100.0
     }
   ],

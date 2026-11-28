@@ -1,10 +1,10 @@
 {
-  "fecha_evaluacion": "2026-11-27T23:36:48.664648-05:00",
+  "fecha_evaluacion": "2026-11-28T00:37:13.070184-05:00",
   "umbral_referencia_m": 2115.0,
-  "pares_archivados": 27,
-  "pares_nuevos": 0,
-  "pares_sin_cota_real": 21,
-  "pares_evaluados": 6,
+  "pares_archivados": 34,
+  "pares_nuevos": 7,
+  "pares_sin_cota_real": 22,
+  "pares_evaluados": 12,
   "metricas": [
     {
       "escenario": "local_supuesta",
@@ -13,33 +13,33 @@
         0,
         24
       ],
-      "n": 2,
+      "n": 3,
       "v3": {
-        "mae_m": 0.09080271450102373,
-        "rmse_m": 0.10791717649214452,
-        "sesgo_m": 0.09080271450102373,
+        "mae_m": 0.08847836594425947,
+        "rmse_m": 0.10053133398820384,
+        "sesgo_m": 0.032591920057105504,
         "cobertura_referencia_pct": 100.0,
         "umbral_cierre": {
           "vp": 0,
           "fp": 0,
-          "vn": 2,
+          "vn": 3,
           "fn": 0
         }
       },
       "v4": {
-        "mae_m": 0.1408390062563285,
-        "rmse_m": 0.16106176529035932,
-        "sesgo_m": 0.1408390062563285,
+        "mae_m": 0.12257282810969627,
+        "rmse_m": 0.1405758955953305,
+        "sesgo_m": 0.0652125135654084,
         "cobertura_referencia_pct": 100.0,
         "umbral_cierre": {
           "vp": 0,
           "fp": 0,
-          "vn": 2,
+          "vn": 3,
           "fn": 0
         }
       },
-      "mae_persistencia_m": 0.42699999999990723,
-      "mejora_v4_pct": -55.10440082134401
+      "mae_persistencia_m": 0.29799999999992605,
+      "mejora_v4_pct": -38.53423580055264
     },
     {
       "escenario": "local_supuesta",
@@ -48,11 +48,46 @@
         24,
         48
       ],
+      "n": 2,
+      "v3": {
+        "mae_m": 0.16758782264560068,
+        "rmse_m": 0.17694237652367178,
+        "sesgo_m": 0.16758782264560068,
+        "cobertura_referencia_pct": 100.0,
+        "umbral_cierre": {
+          "vp": 0,
+          "fp": 0,
+          "vn": 2,
+          "fn": 0
+        }
+      },
+      "v4": {
+        "mae_m": 0.26453273861397975,
+        "rmse_m": 0.2686296816425061,
+        "sesgo_m": 0.26453273861397975,
+        "cobertura_referencia_pct": 100.0,
+        "umbral_cierre": {
+          "vp": 0,
+          "fp": 0,
+          "vn": 2,
+          "fn": 0
+        }
+      },
+      "mae_persistencia_m": 0.5769999999997708,
+      "mejora_v4_pct": -57.84723164128056
+    },
+    {
+      "escenario": "local_supuesta",
+      "horizonte_dias": 3,
+      "horizonte_horas": [
+        48,
+        72
+      ],
       "n": 1,
       "v3": {
-        "mae_m": 0.11081699993928851,
-        "rmse_m": 0.11081699993928851,
-        "sesgo_m": 0.11081699993928851,
+        "mae_m": 0.14025725037436132,
+        "rmse_m": 0.14025725037436132,
+        "sesgo_m": 0.14025725037436132,
         "cobertura_referencia_pct": 100.0,
         "umbral_cierre": {
           "vp": 0,
@@ -62,9 +97,9 @@
         }
       },
       "v4": {
-        "mae_m": 0.21779585745207442,
-        "rmse_m": 0.21779585745207442,
-        "sesgo_m": 0.21779585745207442,
+        "mae_m": 0.2556539418005741,
+        "rmse_m": 0.2556539418005741,
+        "sesgo_m": 0.2556539418005741,
         "cobertura_referencia_pct": 100.0,
         "umbral_cierre": {
           "vp": 0,
@@ -73,8 +108,8 @@
           "fn": 0
         }
       },
-      "mae_persistencia_m": 0.8539999999998145,
-      "mejora_v4_pct": -96.53650394018486
+      "mae_persistencia_m": 0.8139999999998508,
+      "mejora_v4_pct": -82.27502757840105
     },
     {
       "escenario": "utc_supuesta",
@@ -83,33 +118,33 @@
         0,
         24
       ],
-      "n": 2,
+      "n": 3,
       "v3": {
-        "mae_m": 0.0968273539913298,
-        "rmse_m": 0.10689669610414072,
-        "sesgo_m": 0.0968273539913298,
+        "mae_m": 0.07923874418990333,
+        "rmse_m": 0.09091245830449068,
+        "sesgo_m": 0.04986439446520308,
         "cobertura_referencia_pct": 100.0,
         "umbral_cierre": {
           "vp": 0,
           "fp": 0,
-          "vn": 2,
+          "vn": 3,
           "fn": 0
         }
       },
       "v4": {
-        "mae_m": 0.14680653523191722,
-        "rmse_m": 0.1606474425549282,
-        "sesgo_m": 0.14680653523191722,
+        "mae_m": 0.11342079326474656,
+        "rmse_m": 0.1339046422644136,
+        "sesgo_m": 0.08232125371114307,
         "cobertura_referencia_pct": 100.0,
         "umbral_cierre": {
           "vp": 0,
           "fp": 0,
-          "vn": 2,
+          "vn": 3,
           "fn": 0
         }
       },
-      "mae_persistencia_m": 0.42699999999990723,
-      "mejora_v4_pct": -51.61679957201216
+      "mae_persistencia_m": 0.29799999999992605,
+      "mejora_v4_pct": -43.13804998338015
     },
     {
       "escenario": "utc_supuesta",
@@ -118,11 +153,46 @@
         24,
         48
       ],
+      "n": 2,
+      "v3": {
+        "mae_m": 0.22598073699168708,
+        "rmse_m": 0.24839461538980764,
+        "sesgo_m": 0.22598073699168708,
+        "cobertura_referencia_pct": 100.0,
+        "umbral_cierre": {
+          "vp": 0,
+          "fp": 0,
+          "vn": 2,
+          "fn": 0
+        }
+      },
+      "v4": {
+        "mae_m": 0.32237211786446096,
+        "rmse_m": 0.335419401302126,
+        "sesgo_m": 0.32237211786446096,
+        "cobertura_referencia_pct": 100.0,
+        "umbral_cierre": {
+          "vp": 0,
+          "fp": 0,
+          "vn": 2,
+          "fn": 0
+        }
+      },
+      "mae_persistencia_m": 0.5769999999997708,
+      "mejora_v4_pct": -42.65468913676467
+    },
+    {
+      "escenario": "utc_supuesta",
+      "horizonte_dias": 3,
+      "horizonte_horas": [
+        48,
+        72
+      ],
       "n": 1,
       "v3": {
-        "mae_m": 0.1228662789203554,
-        "rmse_m": 0.1228662789203554,
-        "sesgo_m": 0.1228662789203554,
+        "mae_m": 0.2640443749287442,
+        "rmse_m": 0.2640443749287442,
+        "sesgo_m": 0.2640443749287442,
         "cobertura_referencia_pct": 100.0,
         "umbral_cierre": {
           "vp": 0,
@@ -132,9 +202,9 @@
         }
       },
       "v4": {
-        "mae_m": 0.22973091540325186,
-        "rmse_m": 0.22973091540325186,
-        "sesgo_m": 0.22973091540325186,
+        "mae_m": 0.3782676274440746,
+        "rmse_m": 0.3782676274440746,
+        "sesgo_m": 0.3782676274440746,
         "cobertura_referencia_pct": 100.0,
         "umbral_cierre": {
           "vp": 0,
@@ -143,8 +213,8 @@
           "fn": 0
         }
       },
-      "mae_persistencia_m": 0.8539999999998145,
-      "mejora_v4_pct": -86.97637579808895
+      "mae_persistencia_m": 0.8139999999998508,
+      "mejora_v4_pct": -43.25911224056752
     }
   ],
   "nota": "Primera emision conjunta por cierre, escenario y tramo de anticipacion desde archivo. Cierre 00:00 corresponde al dia anterior CSV. Sesgo positivo = sobreestima. Umbral evaluado solo al cierre, no cruces intradia. Bandas empiricas no calibradas. Escenarios no se combinan; muestras correlacionadas. No confirma publicacion."
