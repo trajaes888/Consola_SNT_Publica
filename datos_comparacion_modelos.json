@@ -1,8 +1,8 @@
 {
-  "fecha_evaluacion": "2026-11-28T06:37:02.283736-05:00",
+  "fecha_evaluacion": "2026-11-28T07:06:56.191930-05:00",
   "umbral_referencia_m": 2115.0,
   "pares_archivados": 36,
-  "pares_nuevos": 2,
+  "pares_nuevos": 0,
   "pares_sin_cota_real": 24,
   "pares_evaluados": 12,
   "metricas": [
