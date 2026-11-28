@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-28T11:36:21.929207-05:00",
+  "fecha_consulta": "2026-11-28T12:06:20.978030-05:00",
   "generacion": {
     "Mazar": [
       {
@@ -45,6 +45,10 @@
       {
         "loctimestamp": "2026-11-28T16:00:00Z",
         "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-28T17:00:00Z",
+        "valueedit": 52.847421
       }
     ],
     "Molino": [
@@ -91,6 +95,10 @@
       {
         "loctimestamp": "2026-11-28T16:00:00Z",
         "valueedit": 279.887689
+      },
+      {
+        "loctimestamp": "2026-11-28T17:00:00Z",
+        "valueedit": 448.121305
       }
     ],
     "Sopladora": [
@@ -137,6 +145,10 @@
       {
         "loctimestamp": "2026-11-28T16:00:00Z",
         "valueedit": 162.690311
+      },
+      {
+        "loctimestamp": "2026-11-28T17:00:00Z",
+        "valueedit": 260.079598
       }
     ],
     "Minas_San_Francisco": [
@@ -183,6 +195,10 @@
       {
         "loctimestamp": "2026-11-28T16:00:00Z",
         "valueedit": 200.25
+      },
+      {
+        "loctimestamp": "2026-11-28T17:00:00Z",
+        "valueedit": 141
       }
     ],
     "Coca_Codo_Sinclair": [
@@ -229,6 +245,10 @@
       {
         "loctimestamp": "2026-11-28T16:00:00Z",
         "valueedit": 642.828
+      },
+      {
+        "loctimestamp": "2026-11-28T17:00:00Z",
+        "valueedit": 902.048324
       }
     ]
   },
@@ -277,6 +297,10 @@
       {
         "loctimestamp": "2026-11-28T16:00:00Z",
         "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-28T17:00:00Z",
+        "valueedit": 1
       }
     ],
     "44822": [
@@ -737,6 +761,10 @@
       {
         "loctimestamp": "2026-11-28T16:00:00Z",
         "valueedit": 42.3336685
+      },
+      {
+        "loctimestamp": "2026-11-28T17:00:00Z",
+        "valueedit": 39.2599833
       }
     ],
     "650919": [
@@ -782,6 +810,10 @@
       },
       {
         "loctimestamp": "2026-11-28T16:00:00Z",
+        "valueedit": 783.68
+      },
+      {
+        "loctimestamp": "2026-11-28T17:00:00Z",
         "valueedit": 783.68
       }
     ],
