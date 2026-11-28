@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-27T18:36:21.647393-05:00",
+  "fecha_consulta": "2026-11-27T19:06:17.166538-05:00",
   "generacion": {
     "Mazar": [
       {
@@ -73,6 +73,10 @@
       {
         "loctimestamp": "2026-11-27T23:00:00Z",
         "valueedit": 115.521195
+      },
+      {
+        "loctimestamp": "2026-11-28T00:00:00Z",
+        "valueedit": 115.54405
       }
     ],
     "Molino": [
@@ -147,6 +151,10 @@
       {
         "loctimestamp": "2026-11-27T23:00:00Z",
         "valueedit": 426.759145
+      },
+      {
+        "loctimestamp": "2026-11-28T00:00:00Z",
+        "valueedit": 431.556054
       }
     ],
     "Sopladora": [
@@ -221,6 +229,10 @@
       {
         "loctimestamp": "2026-11-27T23:00:00Z",
         "valueedit": 250.137019
+      },
+      {
+        "loctimestamp": "2026-11-28T00:00:00Z",
+        "valueedit": 258.560306
       }
     ],
     "Minas_San_Francisco": [
@@ -369,6 +381,10 @@
       {
         "loctimestamp": "2026-11-27T23:00:00Z",
         "valueedit": 1006.917359
+      },
+      {
+        "loctimestamp": "2026-11-28T00:00:00Z",
+        "valueedit": 805.66041
       }
     ]
   },
@@ -444,6 +460,10 @@
       },
       {
         "loctimestamp": "2026-11-27T23:00:00Z",
+        "valueedit": 2
+      },
+      {
+        "loctimestamp": "2026-11-28T00:00:00Z",
         "valueedit": 2
       }
     ],

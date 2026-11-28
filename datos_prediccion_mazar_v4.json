@@ -16,15 +16,15 @@
     {
       "dias": 2,
       "n": 48,
-      "mae": 0.80476982046111,
+      "mae": 0.8047698204611101,
       "persistencia": 1.105317993749992,
       "mae_insumos_reales": 0.09187860941535864,
-      "p90_error": 1.6212304308562377
+      "p90_error": 1.621230430856237
     },
     {
       "dias": 3,
       "n": 47,
-      "mae": 1.1374707999098603,
+      "mae": 1.1374707999098608,
       "persistencia": 1.5519477234042534,
       "mae_insumos_reales": 0.1255530300727929,
       "p90_error": 2.4190273346808415
@@ -35,7 +35,7 @@
       "mae": 1.440210963983114,
       "persistencia": 1.9104683260869557,
       "mae_insumos_reales": 0.15248927363694548,
-      "p90_error": 2.8697395175940024
+      "p90_error": 2.8697395175940015
     },
     {
       "dias": 5,
@@ -43,18 +43,18 @@
       "mae": 1.7109499727287039,
       "persistencia": 2.236145400000017,
       "mae_insumos_reales": 0.17434938526758728,
-      "p90_error": 3.5323379522968796
+      "p90_error": 3.532337952296878
     }
   ],
   "origen": "2026-11-27 18:00:00",
   "cota_origen": 2116.995,
   "energia_observada": 348.052689,
   "energia_diaria_predicha": [
-    945.150741507205,
-    937.8453433390738,
-    985.7798656783875,
-    1040.5688259598348,
-    968.0627568552014
+    945.1507415072044,
+    937.8453433390724,
+    985.7798656783888,
+    1040.5688259598357,
+    968.0627568551998
   ],
   "limitaciones": [
     "Solo cota baja (<2130 m); ajuste diario no certificado como curva cota-volumen.",
@@ -67,7 +67,7 @@
     "Historico 2020-2023 fijo; desde 2024 se incorpora el historico diario V3 actualizado."
   ],
   "version": "V4 experimental",
-  "fecha_consulta": "2026-11-27T18:36:52.445377-05:00",
+  "fecha_consulta": "2026-11-27T19:06:48.740424-05:00",
   "fecha_modelo_geoglows": "2026-11-27",
   "umbral_referencia_m": 2115,
   "incertidumbre_tipo": "Referencia empirica p90 retrospectiva diaria con caudal persistente; no calibrada para GEOGloWS ni intradia.",
@@ -78,7 +78,7 @@
         "fecha": "2026-11-28 00:00:00",
         "cota": 2116.7478924795855,
         "caudal_medio": 33.205873012257165,
-        "energia_mwh": 597.098052507205,
+        "energia_mwh": 597.0980525072044,
         "horas": 6.0,
         "horas_desde_origen": 6.0,
         "error_p90_referencia_m": 0.9056350515545579,
@@ -90,10 +90,10 @@
         "fecha": "2026-11-29 00:00:00",
         "cota": 2116.695468541806,
         "caudal_medio": 32.6657200268527,
-        "energia_mwh": 937.8453433390738,
+        "energia_mwh": 937.8453433390724,
         "horas": 24.0,
         "horas_desde_origen": 30.0,
-        "error_p90_referencia_m": 1.6212304308562377,
+        "error_p90_referencia_m": 1.621230430856237,
         "cota_inferior_referencia": 2115.07423811095,
         "cota_superior_referencia": 2118.316698972662,
         "alerta_en_banda_referencia": false
@@ -102,7 +102,7 @@
         "fecha": "2026-11-30 00:00:00",
         "cota": 2116.9865005387924,
         "caudal_medio": 54.572192372888615,
-        "energia_mwh": 985.7798656783875,
+        "energia_mwh": 985.7798656783888,
         "horas": 24.0,
         "horas_desde_origen": 54.0,
         "error_p90_referencia_m": 2.4190273346808415,
@@ -114,10 +114,10 @@
         "fecha": "2026-12-01 00:00:00",
         "cota": 2117.1544683160755,
         "caudal_medio": 49.4646036251531,
-        "energia_mwh": 1040.5688259598348,
+        "energia_mwh": 1040.5688259598357,
         "horas": 24.0,
         "horas_desde_origen": 78.0,
-        "error_p90_referencia_m": 2.8697395175940024,
+        "error_p90_referencia_m": 2.8697395175940015,
         "cota_inferior_referencia": 2114.2847287984814,
         "cota_superior_referencia": 2120.0242078336696,
         "alerta_en_banda_referencia": true
@@ -126,10 +126,10 @@
         "fecha": "2026-12-02 00:00:00",
         "cota": 2117.306337646891,
         "caudal_medio": 45.76101663919295,
-        "energia_mwh": 968.0627568552014,
+        "energia_mwh": 968.0627568551998,
         "horas": 24.0,
         "horas_desde_origen": 102.0,
-        "error_p90_referencia_m": 3.5323379522968796,
+        "error_p90_referencia_m": 3.532337952296878,
         "cota_inferior_referencia": 2113.773999694594,
         "cota_superior_referencia": 2120.838675599188,
         "alerta_en_banda_referencia": true
@@ -140,7 +140,7 @@
         "fecha": "2026-11-28 00:00:00",
         "cota": 2116.7491644323754,
         "caudal_medio": 33.50333304232191,
-        "energia_mwh": 597.098052507205,
+        "energia_mwh": 597.0980525072044,
         "horas": 6.0,
         "horas_desde_origen": 6.0,
         "error_p90_referencia_m": 0.9056350515545579,
@@ -152,10 +152,10 @@
         "fecha": "2026-11-29 00:00:00",
         "cota": 2116.7323409180417,
         "caudal_medio": 34.747106834658474,
-        "energia_mwh": 937.8453433390738,
+        "energia_mwh": 937.8453433390724,
         "horas": 24.0,
         "horas_desde_origen": 30.0,
-        "error_p90_referencia_m": 1.6212304308562377,
+        "error_p90_referencia_m": 1.621230430856237,
         "cota_inferior_referencia": 2115.1111104871857,
         "cota_superior_referencia": 2118.3535713488977,
         "alerta_en_banda_referencia": false
@@ -164,7 +164,7 @@
         "fecha": "2026-11-30 00:00:00",
         "cota": 2117.076556991254,
         "caudal_medio": 57.68161141702105,
-        "energia_mwh": 985.7798656783875,
+        "energia_mwh": 985.7798656783888,
         "horas": 24.0,
         "horas_desde_origen": 54.0,
         "error_p90_referencia_m": 2.4190273346808415,
@@ -176,10 +176,10 @@
         "fecha": "2026-12-01 00:00:00",
         "cota": 2117.196217522526,
         "caudal_medio": 46.64030956240149,
-        "energia_mwh": 1040.5688259598348,
+        "energia_mwh": 1040.5688259598357,
         "horas": 24.0,
         "horas_desde_origen": 78.0,
-        "error_p90_referencia_m": 2.8697395175940024,
+        "error_p90_referencia_m": 2.8697395175940015,
         "cota_inferior_referencia": 2114.3264780049317,
         "cota_superior_referencia": 2120.06595704012,
         "alerta_en_banda_referencia": true
