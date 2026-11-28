@@ -1,32 +1,32 @@
 {
-  "fecha_consulta": "2026-11-28T08:36:39.959480-05:00",
+  "fecha_consulta": "2026-11-28T09:06:45.547240-05:00",
   "fecha_reporte": "Sábado, 28 de noviembre de 2026",
   "fuente": "https://www.cenace.gob.ec/info-operativa/InformacionOperativa.htm",
   "energia_mwh": {
     "IMPORTACIÓN": 0.0,
-    "HIDROELÉCTRICA": 19007.081115722656,
-    "TÉRMICA": 10822.517395019531,
-    "RENOVABLE": 162.58993852511048,
+    "HIDROELÉCTRICA": 20217.358337402344,
+    "TÉRMICA": 11423.285705566406,
+    "RENOVABLE": 173.53475281968713,
     "EXPORTACIÓN": 0.0
   },
-  "produccion_total_mwh": 30086,
+  "produccion_total_mwh": 31913,
   "hidroelectricas_mwh": {
-    "Coca Codo": 5425,
-    "Minas San Francisco": 1425,
-    "Delsitanisagua": 939,
+    "Coca Codo": 5881,
+    "Minas San Francisco": 1501,
+    "Delsitanisagua": 988,
     "Paute": 906,
     "Sopladora": 534,
-    "Agoyán": 108,
-    "San Francisco": 70
+    "Agoyán": 155,
+    "San Francisco": 135
   },
   "participacion_desglose_pct": {
-    "Coca Codo": 57.67,
-    "Minas San Francisco": 15.15,
-    "Delsitanisagua": 9.98,
-    "Paute": 9.63,
-    "Sopladora": 5.68,
-    "Agoyán": 1.15,
-    "San Francisco": 0.74
+    "Coca Codo": 58.23,
+    "Minas San Francisco": 14.86,
+    "Delsitanisagua": 9.78,
+    "Paute": 8.97,
+    "Sopladora": 5.29,
+    "Agoyán": 1.53,
+    "San Francisco": 1.34
   },
   "curvas_mw": {
     "Hidráulica": {
@@ -99,7 +99,7 @@
         1922.7747802734375,
         2058.028564453125,
         2199.95703125,
-        null,
+        2420.554443359375,
         null,
         null,
         null,
@@ -201,7 +201,7 @@
         20.953836768865585,
         22.24346148967743,
         21.454580038785934,
-        null,
+        21.88962858915329,
         null,
         null,
         null,
@@ -303,7 +303,7 @@
         0.0,
         0.0,
         0.0,
-        null,
+        0.0,
         null,
         null,
         null,
@@ -405,7 +405,7 @@
         1203.222900390625,
         1204.752685546875,
         1213.073974609375,
-        null,
+        1201.53662109375,
         null,
         null,
         null,
@@ -507,7 +507,7 @@
         0.0,
         0.0,
         0.0,
-        null,
+        0.0,
         null,
         null,
         null,
@@ -609,7 +609,7 @@
         3146.951517432928,
         3285.0247114896774,
         3434.485585898161,
-        null,
+        3643.9806930422783,
         null,
         null,
         null,
@@ -711,7 +711,7 @@
         3146.951517432928,
         3285.0247114896774,
         3434.485585898161,
-        null,
+        3643.9806930422783,
         null,
         null,
         null,
@@ -744,8 +744,8 @@
       ]
     }
   },
-  "demanda_actual_mw": 3434.485585898161,
-  "hora_ultima_demanda": "08:30",
+  "demanda_actual_mw": 3643.9806930422783,
+  "hora_ultima_demanda": "09:00",
   "demanda_maxima_mw": 3683.9240184221417,
   "hora_demanda_maxima": "00:30"
 }
