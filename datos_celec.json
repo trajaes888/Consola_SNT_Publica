@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-28T07:06:22.326186-05:00",
+  "fecha_consulta": "2026-11-28T07:36:21.727944-05:00",
   "generacion": {
     "Mazar": [
       {
@@ -207,6 +207,10 @@
       {
         "loctimestamp": "2026-11-28T11:00:00Z",
         "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-28T12:00:00Z",
+        "valueedit": 0
       }
     ],
     "90503": [
@@ -293,6 +297,10 @@
       {
         "loctimestamp": "2026-11-28T11:00:00Z",
         "valueedit": 33.40060092
+      },
+      {
+        "loctimestamp": "2026-11-28T12:00:00Z",
+        "valueedit": 33.02412037
       }
     ],
     "30031": [
@@ -319,6 +327,10 @@
       {
         "loctimestamp": "2026-11-28T11:00:00Z",
         "valueedit": 2117.115
+      },
+      {
+        "loctimestamp": "2026-11-28T12:00:00Z",
+        "valueedit": 2117.144
       }
     ],
     "24811": [
@@ -345,6 +357,10 @@
       {
         "loctimestamp": "2026-11-28T11:00:00Z",
         "valueedit": 13.314514
+      },
+      {
+        "loctimestamp": "2026-11-28T12:00:00Z",
+        "valueedit": 17.694196
       }
     ],
     "24019": [
@@ -371,6 +387,10 @@
       {
         "loctimestamp": "2026-11-28T11:00:00Z",
         "valueedit": 1971.2823486
+      },
+      {
+        "loctimestamp": "2026-11-28T12:00:00Z",
+        "valueedit": 1971.3692627
       }
     ],
     "90537": [
@@ -396,6 +416,10 @@
       },
       {
         "loctimestamp": "2026-11-28T11:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-28T12:00:00Z",
         "valueedit": 0
       }
     ],
@@ -423,6 +447,10 @@
       {
         "loctimestamp": "2026-11-28T11:00:00Z",
         "valueedit": 1314.6080322
+      },
+      {
+        "loctimestamp": "2026-11-28T12:00:00Z",
+        "valueedit": 1314.6164551
       }
     ],
     "650538": [
@@ -509,6 +537,10 @@
       {
         "loctimestamp": "2026-11-28T11:00:00Z",
         "valueedit": 48.6634
+      },
+      {
+        "loctimestamp": "2026-11-28T12:00:00Z",
+        "valueedit": 51.0948
       }
     ]
   },
