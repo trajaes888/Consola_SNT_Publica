@@ -1,5 +1,5 @@
 {
-  "fecha_consulta": "2026-11-27T22:36:19.526242-05:00",
+  "fecha_consulta": "2026-11-27T23:06:20.298940-05:00",
   "generacion": {
     "Mazar": [
       {
@@ -88,6 +88,10 @@
       },
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
         "valueedit": 0
       }
     ],
@@ -179,6 +183,10 @@
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
         "valueedit": 522.399228
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
+        "valueedit": 436.582564
       }
     ],
     "Sopladora": [
@@ -269,6 +277,10 @@
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
         "valueedit": 312.716413
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
+        "valueedit": 261.793602
       }
     ],
     "Minas_San_Francisco": [
@@ -359,6 +371,10 @@
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
         "valueedit": 151
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
+        "valueedit": 152.75
       }
     ],
     "Coca_Codo_Sinclair": [
@@ -449,6 +465,10 @@
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
         "valueedit": 986.115641
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
+        "valueedit": 851.126166
       }
     ]
   },
@@ -540,6 +560,10 @@
       },
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
+        "valueedit": 0
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
         "valueedit": 0
       }
     ],
@@ -810,6 +834,10 @@
       },
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
+        "valueedit": 3
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
         "valueedit": 3
       }
     ],
@@ -1441,6 +1469,10 @@
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
         "valueedit": 40.0877481
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
+        "valueedit": 43.0321852
       }
     ],
     "650919": [
@@ -1531,6 +1563,10 @@
       {
         "loctimestamp": "2026-11-28T03:00:00Z",
         "valueedit": 783.81
+      },
+      {
+        "loctimestamp": "2026-11-28T04:00:00Z",
+        "valueedit": 783.86
       }
     ],
     "24812": [
